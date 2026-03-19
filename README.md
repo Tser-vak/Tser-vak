@@ -15,7 +15,7 @@ I am a Machine Learning and Software Development enthusiast specializing in medi
 | :--- | :--- | :--- |
 | **🧪API Data Fetchers** | Developed automated data retrieval scripts for major bioinformatics databases (UniProt, Cheminfo, and PubChem).! | Python, REST APIs |
 | **🧪ChEMBL Pipeline** | Built a customized script for fetching and processing bulk data directly from ChEMBL. | Python, Data Processing |
-| **Boltz-2 Automation** | Created a highly optimized script for automated YAML generation for Boltz-2. | Python, YAML |
+| [**Boltz-2 Automation**](https://github.com/Tser-vak/yaml_fetch)| Created a highly optimized script for automated YAML generation for Boltz-2. | Python, YAML |
 
 ## 🚀 Upcoming Uploads
 I am actively working on and preparing to publish the following repositories:
