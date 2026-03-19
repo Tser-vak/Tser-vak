@@ -16,7 +16,7 @@ I am a Machine Learning and Software Development enthusiast specializing in medi
 | **🧪API Data Fetchers** | Developed automated data retrieval scripts for major bioinformatics databases (UniProt, Cheminfo, and PubChem).! | Python, REST APIs |
 | **🧪ChEMBL Pipeline** | Built a customized script for fetching and processing bulk data directly from ChEMBL. | Python, Data Processing |
 | **Boltz-2 Automation** | Created a highly optimized script for automated YAML generation for Boltz-2. | Python, YAML |
-| **[Example Project]** | *[Replace this text with a description of what your project does]* | *[E.g., Python, Bash]* |
+## | **[Example Project]** | *[Replace this text with a description of what your project does]* | *[E.g., Python, Bash]* |
 
 ## 🚀 Upcoming Uploads
 I am actively working on and preparing to publish the following repositories:
