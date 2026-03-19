@@ -1,4 +1,4 @@
-<h1 align="center">Hi there, I'm [Your Name] 🧬💻</h1>
+<h1 align="center">Hello, I'm Max 🧬💻</h1>
 
 <h3 align="center">Biomedical Engineering Student | Machine Learning & Bioinformatics Enthusiast</h3>
 
@@ -7,12 +7,14 @@
 ## 💫 About Me
 I am a Machine Learning and Software Development enthusiast specializing in medical and computational biology applications. I am currently in the final stages of completing my degree in Biomedical Engineering. My focus is on building tools that accelerate research and streamline data pipelines in the biomedical space.
 
+> 🧪 *Indicates a project that is currently a prototype or in active development.*
+
 ## 🔬 Current Work & Projects
 
 | Project Name | Description | Technologies Used |
 | :--- | :--- | :--- |
-| **API Data Fetchers** | Developed automated data retrieval scripts for major bioinformatics databases (UniProt, Cheminfo, and PubChem). | Python, REST APIs |
-| **ChEMBL Pipeline** | Built a customized script for fetching and processing bulk data directly from ChEMBL. | Python, Data Processing |
+| **🧪API Data Fetchers** | Developed automated data retrieval scripts for major bioinformatics databases (UniProt, Cheminfo, and PubChem).! | Python, REST APIs |
+| **🧪ChEMBL Pipeline** | Built a customized script for fetching and processing bulk data directly from ChEMBL. | Python, Data Processing |
 | **Boltz-2 Automation** | Created a highly optimized script for automated YAML generation for Boltz-2. | Python, YAML |
 | **[Example Project]** | *[Replace this text with a description of what your project does]* | *[E.g., Python, Bash]* |
 
