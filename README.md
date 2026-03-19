@@ -1,26 +1,36 @@
-<h1 align="center">💊Welcome 🧬</h1>
+<h1 align="center">Hi there, I'm [Your Name] 🧬💻</h1>
 
-<h2>💫 About Me:</h2>
-I am a ML and software developing enthusiast (especially for the world of medicine) with almost a degree in Biomedical Engineering.
+<h3 align="center">Biomedical Engineering Student | Machine Learning & Bioinformatics Enthusiast</h3>
 
-Some of the work i did is:
--Create a data fetcher from API like for different applications :
-    -Uniprot
-    -Cheminfo and pubchem
-- Fetching from bulk chembl data.
--a optimized yaml creating script for boltz -2 .
+---
 
-<br>Future uploades:<br>
-- Script For bulk ligand optimazation.
- The script for trainnig and <br>- creation of an ML model predicting the activity of chemicals compounds for the inhibition of MAO-B enzyme <br>-
--Automating the molecular docking process with an automated pipeline of AutoDock Vina<br>
--the web aplication script
--and the deployment script
+## 💫 About Me
+I am a Machine Learning and Software Development enthusiast specializing in medical and computational biology applications. I am currently in the final stages of completing my degree in Biomedical Engineering. My focus is on building tools that accelerate research and streamline data pipelines in the biomedical space.
 
- 
+## 🔬 Current Work & Projects
 
- 
+| Project Name | Description | Technologies Used |
+| :--- | :--- | :--- |
+| **API Data Fetchers** | Developed automated data retrieval scripts for major bioinformatics databases (UniProt, Cheminfo, and PubChem). | Python, REST APIs |
+| **ChEMBL Pipeline** | Built a customized script for fetching and processing bulk data directly from ChEMBL. | Python, Data Processing |
+| **Boltz-2 Automation** | Created a highly optimized script for automated YAML generation for Boltz-2. | Python, YAML |
+| **[Example Project]** | *[Replace this text with a description of what your project does]* | *[E.g., Python, Bash]* |
 
-# <h2> 💻 Tech Stack:</h2>
-![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=flat&logo=html5&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=flat&logo=javascript&logoColor=%23F7DF1E) ![Python](https://img.shields.io/badge/python-3670A0?style=flat&logo=python&logoColor=ffdd54) ![Bash Script](https://img.shields.io/badge/bash_script-%23121011.svg?style=flat&logo=gnu-bash&logoColor=white) ![Anaconda](https://img.shields.io/badge/Anaconda-%2344A833.svg?style=flat&logo=anaconda&logoColor=white)
+## 🚀 Upcoming Uploads
+I am actively working on and preparing to publish the following repositories:
+* **Bulk Ligand Optimization:** A script designed for the high-throughput optimization of ligand libraries.
+* **MAO-B Inhibition ML Model:** A machine learning model trained to predict the activity of chemical compounds in inhibiting the MAO-B enzyme.
+* **Molecular Docking Automation:** An automated pipeline to streamline the molecular docking process using AutoDock Vina.
+* **Web Application & Deployment:** Full-stack scripts and deployment configurations for hosting biomedical ML tools on the web.
+
+---
+
+## 💻 Tech Stack
+<div align="left">
+  <img src="https://img.shields.io/badge/python-3670A0?style=flat&logo=python&logoColor=ffdd54" alt="Python" />
+  <img src="https://img.shields.io/badge/bash_script-%23121011.svg?style=flat&logo=gnu-bash&logoColor=white" alt="Bash" />
+  <img src="https://img.shields.io/badge/Anaconda-%2344A833.svg?style=flat&logo=anaconda&logoColor=white" alt="Anaconda" />
+  <img src="https://img.shields.io/badge/javascript-%23323330.svg?style=flat&logo=javascript&logoColor=%23F7DF1E" alt="JavaScript" />
+  <img src="https://img.shields.io/badge/html5-%23E34F26.svg?style=flat&logo=html5&logoColor=white" alt="HTML5" />
+</div>
 
