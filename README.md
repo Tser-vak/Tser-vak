@@ -16,10 +16,9 @@ I am a Machine Learning and Software Development enthusiast specializing in medi
 | **🧪API Data Fetchers** | Developed automated data retrieval scripts for major bioinformatics databases (UniProt, Cheminfo, and PubChem).! | Python, REST APIs |
 | **🧪ChEMBL Pipeline** | Built a customized script for fetching and processing bulk data directly from ChEMBL. | Python, Data Processing |
 | [**Boltz-2 Automation**](https://github.com/Tser-vak/yaml_fetch)| Created a highly optimized script for automated YAML generation for Boltz-2. | Python, YAML |
-
+|[ **Bulk Ligand Optimization:**](https://github.com/Tser-vak/Lig_optz)| A script designed for the high-throughput geometrical optimization of ligand libraries.|Python,RDkit|
 ## 🚀 Upcoming Uploads
 I am actively working on and preparing to publish the following repositories:
-* **Bulk Ligand Optimization:** A script designed for the high-throughput optimization of ligand libraries.
 * **MAO-B Inhibition ML Model:** A machine learning model trained to predict the activity of chemical compounds in inhibiting the MAO-B enzyme.
 * **Molecular Docking Automation:** An automated pipeline to streamline the molecular docking process using AutoDock Vina.
 * **Web Application & Deployment:** Full-stack scripts and deployment configurations for hosting biomedical ML tools on the web.
