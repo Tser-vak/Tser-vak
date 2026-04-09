@@ -13,8 +13,8 @@ I am a Machine Learning and Software Development enthusiast specializing in medi
 
 | Project Name | Description | Technologies Used |
 | :--- | :--- | :--- |
-| [**🧪API Data Fetchers**](https://github.com/Tser-vak/Project_cloudpharm/tree/194b88a653c0da7ee1b4a75aa0f106fa0931120a/uniprot_fetch) | Developed automated data retrieval scripts for major bioinformatics databases (UniProt, Cheminfo, and PubChem).! | Python, REST APIs |
-| [**🧪ChEMBL Script**](https://github.com/Tser-vak/Project_cloudpharm/tree/194b88a653c0da7ee1b4a75aa0f106fa0931120a/Chembl_bl) | Built a customized script for fetching and processing bulk data directly from ChEMBL. | Python, Data Processing |
+| [**API Data Fetchers**](https://github.com/Tser-vak/Project_cloudpharm/tree/194b88a653c0da7ee1b4a75aa0f106fa0931120a/uniprot_fetch) | Developed automated data retrieval scripts for major bioinformatics databases (UniProt, Cheminfo, and PubChem).! | Python, REST APIs |
+| [**ChEMBL Script**](https://github.com/Tser-vak/Project_cloudpharm/tree/194b88a653c0da7ee1b4a75aa0f106fa0931120a/Chembl_bl) | Built a customized script for fetching and processing bulk data directly from ChEMBL. | Python, Data Processing |
 | [**Boltz-2 Automation**](https://github.com/Tser-vak/yaml_fetch)| Created a highly optimized script for automated YAML generation for Boltz-2. | Python, YAML |
 |[ **Bulk Ligand Optimization:**](https://github.com/Tser-vak/Lig_optz)| A script designed for the high-throughput geometrical optimization of ligand libraries.|Python,RDkit|
 ## 🚀 Upcoming Uploads
