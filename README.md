@@ -5,7 +5,7 @@
 ---
 
 ## 💫 About Me
-I am a Machine Learning and Software Development enthusiast specializing in medical and computational biology applications. I am currently in the final stages of completing my degree in Biomedical Engineering. My focus is on building tools that accelerate research and streamline data pipelines in the biomedical space.
+I am a Scientific Software Engineer and final-year Biomedical Engineering student passionate about building and validating robust Machine Learning pipelines. My focus is on developing data-driven tools, applying defensive programming, and ensuring the reliability and accuracy of complex AI software in the biomedical space
 
 > 🧪 *Indicates a project that is currently a prototype or in active development.*
 
