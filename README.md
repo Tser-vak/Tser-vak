@@ -5,7 +5,7 @@
 ---
 
 ## 💫 About Me
-I am a Scientific Software Engineer and final-year Biomedical Engineering student passionate about building and validating robust Machine Learning pipelines. My focus is on developing data-driven tools, applying defensive programming, and ensuring the reliability and accuracy of complex AI software in the biomedical space
+I just finished my internship as a Scientific Software Engineer at Cloudpharm and I am in my final year of Biomedical Engineering. My passion is building and validating robust Machine Learning pipelines. My focus is on developing data-driven tools, applying defensive programming, and ensuring the reliability and accuracy of complex AI software in the biomedical space.
 
 > 🧪 *Indicates a project that is currently a prototype or in active development.*
 
