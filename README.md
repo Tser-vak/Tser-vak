@@ -5,7 +5,7 @@
 ---
 
 ## 💫 About Me
-I just finished my internship as a Scientific Software Engineer at Cloudpharm and I am in my final year of Biomedical Engineering. My passion is building and validating robust Machine Learning pipelines. My focus is on developing data-driven tools, applying defensive programming, and ensuring the reliability and accuracy of complex AI software in the biomedical space.
+Hello, I'm Max. I recently completed my internship as a Scientific Software Engineer at Cloudpharm and I am in my final year of Biomedical Engineering. I am passionate about building and validating robust Machine Learning pipelines and data-driven tools. My core focus is on writing clean, defensive code  and ensuring the absolute reliability, accuracy, and scalability of complex software systems.
 
 > 🧪 *Indicates a project that is currently a prototype or in active development.*
 
