@@ -14,7 +14,7 @@ I'm a final-year Biomedical Engineering student and recently completed an intern
 | Project Name | Description | Technologies Used |
 | :--- | :--- | :--- |
 | [**API Data Fetchers**](https://github.com/Tser-vak/Project_cloudpharm/tree/main/uniprot_fetch) | Developed automated data retrieval scripts for major bioinformatics databases Uniprot.| Python, REST APIs |
-|[ **🧪 MAO_ML:**](https://github.com/Tser-vak/MAO-ML.git)| A script designed to train an ML model for the elimination phase of drug discovery, specifically targeting the inhibition of the MAO-B enzyme.|Python,RDkit|
+|[ **MAO_ML:**](https://github.com/Tser-vak/MAO-ML.git)| A script designed to train an ML model for the elimination phase of drug discovery, specifically targeting the inhibition of the MAO-B enzyme.|Python,RDkit|
 | [**Boltz-2 Helping Tools**](https://github.com/Tser-vak/Project_cloudpharm)| Created a highly optimized script for automated YAML generation for Boltz-2 and others.| Python, YAML |
 |[ **🧪 Bulk Ligand Optimization:**](https://github.com/Tser-vak/Lig_optz)| A script designed for the high-throughput geometrical optimization of ligand libraries.|Python,RDkit|
 | [**🧪Web application - Prot**](https://github.com/Tser-vak/B_Inquery.git) | Web site in the making.| Python, React, HTML, Css|
