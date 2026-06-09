@@ -20,7 +20,6 @@ I'm a final-year Biomedical Engineering student and recently completed an intern
 | [**🧪Web application - Prot**](https://github.com/Tser-vak/B_Inquery.git) | Web site in the making.| Python, React, HTML, Css|
 ## 🚀 Upcoming Uploads
 I am actively working on and preparing to publish the following repositories:
-* **MAO-B Inhibition ML Model:** A machine learning model trained to predict the activity of chemical compounds in inhibiting the MAO-B enzyme.
 * **Molecular Docking Automation:** An automated pipeline to streamline the molecular docking process using AutoDock Vina.
 * **Web Application & Deployment:** Full-stack scripts and deployment configurations for hosting biomedical ML tools on the web.
 
