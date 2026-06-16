@@ -5,7 +5,7 @@
   <img src="molecule.gif" alt="Protein Folding ASCII Animation" />
 </p>
 
----
+<img src="https://dummyimage.com/1000x2/f5a442/f5a442" width="100%">
 
 ## 💫 About Me
 I'm a recent Biomedical Engineering with a Masters in engineering. I am passionate about building and validating robust Machine Learning pipelines and data driven tools. Whether I'm working with data or backend infrastructure, my core focus is always on writing clean, defensive code to ensure the reliability, accuracy, and scalability of complex systems.
