@@ -17,7 +17,7 @@ I'm a MEng in Biomedical Engineering recently completed an internship as a Scien
 |[ **MAO_ML:**](https://github.com/Tser-vak/MAO-ML.git)| A script designed to train an ML model for the elimination phase of drug discovery, specifically targeting the inhibition of the MAO-B enzyme.|Python,RDkit|
 | [**Boltz-2 Helping Tools**](https://github.com/Tser-vak/Project_cloudpharm)| Created a highly optimized script for automated YAML generation for Boltz-2 and others.| Python, YAML |
 |[ **🧪 Bulk Ligand Optimization:**](https://github.com/Tser-vak/Lig_optz)| A script designed for the high-throughput geometrical optimization of ligand libraries.|Python,RDkit|
-| [**Web application - Prot**] | [binquery.tech](https://binquery.tech) | Python, React, HTML, Css|
+| **Web application - Prot** | [**binquery.tech**](https://binquery.tech) | Python, React, HTML, Css|
 ## 🚀 Upcoming Uploads
 I am actively working on and preparing to publish the following repositories:
 * **Molecular Docking Automation:** An automated pipeline to streamline the molecular docking process using AutoDock Vina.
