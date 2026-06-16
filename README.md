@@ -1,6 +1,6 @@
 <h1 align="center">Hello, I'm Max 🧬💻</h1>
 
-<h3 align="center">Software & ML Engineer | Biomedical Systems | MSci Biomedical Engineering Candidate</h3>
+<h3 align="center">Software & ML Engineer | Biomedical Systems | MSci Biomedical Engineering </h3>
 
 ---
 
