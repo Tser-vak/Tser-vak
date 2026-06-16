@@ -1,4 +1,4 @@
-<h1 align="center">Hello, I'm Max 🧬💻</h1>
+<h1 align="center">Welcome I'm Max</h1>
 
 <p align="center">
   <img src="molecule.gif" alt="Protein Folding ASCII Animation" />
@@ -9,7 +9,7 @@
 ---
 
 ## 💫 About Me
-I'm a MEng in Biomedical Engineering recently completed an internship as a Scientific Software Engineer at Cloudpharm. I am passionate about building and validating robust Machine Learning pipelines and data driven tools. Whether I'm working with data or backend infrastructure, my core focus is always on writing clean, defensive code to ensure the reliability, accuracy, and scalability of complex systems.
+I'm a recent Biomedical Engineering with a Masters in engineering. I am passionate about building and validating robust Machine Learning pipelines and data driven tools. Whether I'm working with data or backend infrastructure, my core focus is always on writing clean, defensive code to ensure the reliability, accuracy, and scalability of complex systems.
 
 > 🧪 *Indicates a project that is currently a prototype or in active development.*
 
