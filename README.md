@@ -21,7 +21,9 @@ I'm a recent Biomedical Engineering with a Masters in engineering. I am passiona
 | [**Boltz-2 Helping Tools**](https://github.com/Tser-vak/Project_cloudpharm)| Created a highly optimized script for automated YAML generation for Boltz-2 and others.| Python, YAML |
 |[ **🧪 Bulk Ligand Optimization:**](https://github.com/Tser-vak/Lig_optz)| A script designed for the high-throughput geometrical optimization of ligand libraries.|Python,RDkit|
 | **Web application** | [**binquery.tech**](https://binquery.tech) | Python, React, HTML, Css|
+
 <img src="https://dummyimage.com/1000x2/00e6ff/00e6ff.png" width="100%">
+
 ## 🚀 Upcoming Uploads
 I am actively working on and preparing to publish the following repositories:
 * **Molecular Docking Automation:** An automated pipeline to streamline the molecular docking process using AutoDock Vina.
