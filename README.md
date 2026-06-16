@@ -1,5 +1,5 @@
 <h1 align="center">Welcome I'm Max</h1>
-<h3 align="center">Software & ML Engineer | Biomedical Systems | MSci Biomedical Engineering </h3>
+<h3 align="center">Software & ML Engineer | Biomedical Systems | MEng Biomedical Engineering </h3>
 
 <p align="center">
   <img src="molecule.gif" alt="Protein Folding ASCII Animation" />
