@@ -24,12 +24,6 @@ I'm a recent Biomedical Engineering with a Masters in engineering. I am passiona
 
 <img src="https://dummyimage.com/1000x2/00e6ff/00e6ff.png" width="100%">
 
-## 🚀 Upcoming Uploads
-I am actively working on and preparing to publish the following repositories:
-* **Molecular Docking Automation:** An automated pipeline to streamline the molecular docking process using AutoDock Vina.
-* **RAFT**:** Fine tune and implement RAG to an SLM
-* **Portal**:** Portal for greek Diagnostic Centers so they can communicate and share the personal file of each to the cetral Ydika database
-
 <img src="https://dummyimage.com/1000x2/00e6ff/00e6ff.png" width="100%">
 
 ## 💻 Tech Stack
