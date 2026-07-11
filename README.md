@@ -24,8 +24,6 @@ I'm a recent Biomedical Engineering with a Masters in engineering. I am passiona
 
 <img src="https://dummyimage.com/1000x2/00e6ff/00e6ff.png" width="100%">
 
-<img src="https://dummyimage.com/1000x2/00e6ff/00e6ff.png" width="100%">
-
 ## 💻 Tech Stack
 
 ### Languages
